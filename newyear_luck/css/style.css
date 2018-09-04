@@ -1,0 +1,193 @@
+/*所有*/
+
+body {
+    font-family: "Microsoft JhengHei", "serif";
+}
+
+@media (min-width: 600px) {
+    h2 {
+        display: inline-block;
+        margin: 0 10px;
+    }
+}
+a:hover{
+    text-decoration: none !important;
+}
+/*刊頭*/
+.header {
+    position: relative;
+    background: url(../img/header_bg.jpg);
+    background-size: cover;
+    background-position: 0% 30%;
+    height: 100vh;
+    text-align: center;
+    z-index: 1;
+}
+.header img {
+    width: 23%;
+    margin: 250px 0;
+}
+@media (max-width: 768px){
+    .header img{
+        width: 40%;
+        margin: 450px 0;
+    }
+}
+@media (max-width: 414px){
+    .header img{
+        width: 50%;
+        margin: 280px 0;
+    }
+}
+.header:before {
+    content: "";
+    position: absolute;
+    background: rgba(0, 0, 0, .3);
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 0;
+}
+.header:after {
+    content: "";
+    position: absolute;
+    background: url(../img/header_cover.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    bottom: -10px;
+    z-index: 10;
+}
+/*區塊1 新聞 news*/
+.page1_news {
+    position: relative;
+    text-align: center;
+    padding: 60px 0;
+    background: url(../img/page1_img1.png),
+    url(../img/page1_img2.png);
+    background-repeat: no-repeat,
+    no-repeat;
+    background-position: 100% 20%,
+    0% 90%;
+    -webkit-background-size: 20%,
+    20%;
+    background-size: 20%,
+    20%;
+}
+
+.page1_news .newsbox {
+    text-align: left;
+    padding: 20px 5px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.page1_news h5 {
+    color: #e8472d;
+    font-weight: bold;
+}
+/*區塊2 公職*/
+.page2_public {
+    background: #D9CD90;
+    padding: 60px 0;
+    text-align: center;
+}
+.page2_public img{
+	width: 100%;
+}
+.page2_public .publictext{
+	padding: 0 15px;
+}
+.page2_public h5{
+	border-bottom: 0.5px solid #A09770;
+	padding-bottom: 10px;
+	color: #756C45;
+	font-weight: bold;
+}
+.page2_public .publictext p{
+	text-align: left;
+}
+/*區塊3 優惠*/
+.page3_sale{
+	background: url(../img/salecircle.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 90%;
+	text-align: center;
+	padding: 60px 0 200px 0;
+    position: relative;
+}
+.page3_sale img{
+    position: absolute;
+    right: 0;
+    top: 20%;
+    width: 30%;
+}
+.salecontent{
+    text-align: left;
+}
+.page3_sale p span{
+    background: #3d3d3d;
+    padding: 5px 20px;
+    border-radius: 100px;
+    color: #fff;
+    margin-right: 10px;
+}
+.page3_sale p{
+    font-size: 20px;
+    color: #fff;
+}
+/*區塊4 連結*/
+.page4_link{
+    padding: 60px 0 150px 0;
+    position: relative;
+    text-align: center;
+}
+.page4_link img{
+    position: absolute;
+    bottom: 5%;
+    left: 0;
+}
+a .link{
+    display: block;
+    background: #D9CD90;
+    color: #000;
+    text-decoration: none;
+    padding: 5px 15px;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.page4_link .bottom{
+    position: absolute;
+    bottom: 0;
+    background: #3d3d3d;
+    height: 50px;
+    width: 100%;
+    z-index: -1;
+}
+.page4_link a :hover{
+    text-decoration: none;
+    background: #7C7451;
+    color: #fff;
+}
+/*TOP按鈕*/
+.to_top{
+    background: rgba(104,97,68,0.5);
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    position: fixed; 
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+}
+.to_top:hover{
+    background: rgba(104,97,68,0.8);
+    color: #fff;
+}

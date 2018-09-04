@@ -1,0 +1,156 @@
+[0903/213916.662:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f934310000 of 56 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(100)] could not read crashpad info from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.106\chrome_elf.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9512a0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\SHELL32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x4b4e180000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\ADVAPI32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f953720000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\USER32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94dc90000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94dc70000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f951020000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\USERENV.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f951060000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\PSAPI.DLL
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9510b0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\SHLWAPI.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f948aa0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f953500000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\msvcrt.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f953340000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\combase.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f952ef0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\GDI32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f952a10000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f952a60000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\RPCRT4.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94dc20000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950b70000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\profapi.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950bb0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\cfgmgr32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950ff0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\DEVOBJ.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f951070000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f952660000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\MSCTF.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94fce0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\shcore.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f923480000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.106\chrome_child.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f953920000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\ole32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f947330000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\msdmo.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f952dd0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\WS2_32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f952590000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\OLEAUT32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950cb0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\WINTRUST.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f953870000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\COMDLG32.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94b970000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94d0c0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94d990000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0903/213918.434:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f948ee0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.434:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f945980000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\USP10.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94e3a0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\dxgi.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950e10000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\CRYPT32.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9535b0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\urlmon.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94d300000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94b5a0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9534f0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\NSI.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950b90000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\MSASN1.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94e680000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9200.17359_none_4188b989718cf1c6\COMCTL32.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94b950000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINNSI.DLL
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9530b0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\iertutil.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9527e0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\WININET.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950970000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\SSPICLI.DLL
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950a00000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9509a0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\bcryptPrimitives.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f953aa0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\SETUPAPI.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9341e0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\mf.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f931410000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\MFCORE.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f933af0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\mfnetcore.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9338f0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\MFPlat.DLL
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94e670000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\ksuser.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94f410000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\AVRT.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9231b0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\msmpeg2vdec.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950430000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\CRYPTSP.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950670000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\bcrypt.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f93fc20000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\dxva2.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f946bb0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\msvproc.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f931c60000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.106\D3DCompiler_47.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f930350000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.106\libglesv2.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9226c0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\d3d9.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94f2f0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\dwmapi.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f946f40000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.106\libegl.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94e1a0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\d3d11.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94f2b0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\dcomp.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94d310000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\nvumdshimx.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94f8e0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\uxtheme.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94d060000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\nvinitx.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94bed0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\igd10iumd64.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950640000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\ncrypt.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f950600000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\NTASN1.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f94ba90000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\igdusc64.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f952e50000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\clbcatq.dll
+[0903/213918.438:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7f9468f0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213918.438:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\System32\mfh264enc.dll
+[0903/213919.916:ERROR:process_reader_win.cc(242)] ReadMemory at 0x4b4dece000 of 73728 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0903/213920.026:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0903/213920.026:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\kemus\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a486f323-f2c2-4c09-bd42-1008f3e75d5a.dmp: 祘礚猭郎郎タパ祘ㄏノ (0x20)
+[0903/213920.026:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 沽刚瞷Τ矪瞶祘 (0xc000010a)
