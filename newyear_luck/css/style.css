@@ -149,6 +149,12 @@ a:hover{
     position: absolute;
     bottom: 5%;
     left: 0;
+    width: 50%;
+}
+@media (max-width: 414px){
+    .page4_link img{
+        width: 90%;
+    }
 }
 a .link{
     display: block;
