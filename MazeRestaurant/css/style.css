@@ -1,0 +1,184 @@
+/*所有*/
+
+body {
+    font-family: "Microsoft JhengHei", "serif";
+}
+
+h2{
+	display: inline-block;
+	font-family: "華康超明體";
+	color: #4f3336;
+	text-align: center;
+	border-bottom: 2px solid #4f3336;
+	padding-bottom: 10px;
+}
+h4{
+	display: inline-block;
+	font-family: 'Dancing Script', cursive;
+	color: #4f3336;
+}
+/* 嵌入字型設定 */
+@font-face {
+    font-family: "華康超明體";
+    src: url(../fonts/brightfont.TTC);
+}
+
+/*刊頭*/
+.header{
+	background-color: #FFFFFB;
+	background: url(../img/maze1.png);
+	background-position: center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	text-align: left;
+	padding: 300px 0;
+	position: relative;
+}
+.header h1{
+	font-family: "華康超明體";
+	color: #4f3336;
+	position: relative;
+	z-index: 1;
+}
+.header p{
+	letter-spacing: 12px;
+	position: relative;
+	z-index: 1;
+}
+@media (max-width: 768px){
+	.header{
+		padding: 500px 0;
+	}
+	.header:after{
+		content: '';
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 0;
+		background: rgba(255,255,255,0.5);
+	}
+	.title{
+		text-align: center;
+	}
+}
+@media (max-width: 414px){
+	.header{
+		padding: 300px 0;
+	}
+}
+/*關於探索*/
+.page1-about{
+	background: rgba(220,134,151,0.25);
+	background-image: url(../img/bell.png);
+	background-position: left bottom;
+	background-size: contain;
+	background-repeat: no-repeat;
+	padding: 80px 0;
+}
+
+@media (max-width: 768px){
+	.page1-about{
+		height: 100vh;
+	}
+}
+
+/*探索美食*/
+.page2-menu{
+	padding: 80px 0;
+	text-align: center;
+}
+.page2-menu .menu-img{
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	margin: 10px 0;
+	margin-right: auto;
+	margin-left: auto;
+	background: rgb(153,101,105); /* Old browsers */
+    background: -webkit-linear-gradient(bottom left, rgba(153,101,105,1) 0%, rgba(163,98,118,1) 47%, rgba(220,130,161,1) 79%, rgba(234,162,175,1) 100%);
+    background: -o-linear-gradient(bottom left, rgba(153,101,105,1) 0%, rgba(163,98,118,1) 47%, rgba(220,130,161,1) 79%, rgba(234,162,175,1) 100%);
+    background: linear-gradient(to top right, rgba(153,101,105,1) 0%, rgba(163,98,118,1) 47%, rgba(220,130,161,1) 79%, rgba(234,162,175,1) 100%); /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#996569', endColorstr='#eaa2af',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.page2-menu .menu-img img{
+	width: 50%;
+}
+.page2-menu .menu-img p{
+	margin-top: 5px;
+	margin-bottom: 0px;
+	color: #fff;
+
+}
+
+/*探索景觀*/
+.page3-landscape{
+	padding: 80px 0;
+	text-align: center;
+	margin: 0 auto;
+}
+.page3-landscape img{
+	width: 100%;
+}
+.swiper-pagination-bullet-active{
+	background: #fff;
+}
+/*探索位址*/
+.page4-location{
+	background: #6d5563;
+	padding: 80px 0;
+}
+.page4-location h2{
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+.page4-location h4{
+	color: #fff;
+}
+.page4-location .location-detail p{
+	margin-top: 10px;
+	font-size: 16px;
+	color: #fff;
+	line-height: 35px;
+}
+.page4-location .location-detail a{
+	padding: 10px 25px;
+	border-radius: 50px;
+	border: 1px solid #dca3ac;
+	text-decoration: none;
+	color: #dca3ac;
+	font-weight: bold;
+}
+.page4-location .location-detail a:hover{
+	background: #dca3ac;
+	color: #fff;
+}
+@media (max-width: 414px){
+	.page4-location .location-detail{
+		text-align: center;
+	}
+	.page4-location .map{
+	padding-top: 40px;
+}
+}
+/*TOP按鈕*/
+.to_top{
+	display: none;
+    background: #cd899a;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    position: fixed; 
+    bottom: 15px;
+    right: 15px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 60px;
+    opacity: 0.5;
+    font-size: 30px;
+}
+.to_top:hover{
+	opacity: 1;
+	color: #fff;
+}
