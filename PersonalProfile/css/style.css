@@ -1,0 +1,308 @@
+/*所有*/
+
+body {
+    font-family: "Microsoft JhengHei", "serif";
+}
+h2{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    display: inline-block;  
+}
+
+
+/*個人簡歷*/
+.header-resume {
+    background: url(../img/resume_bg.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    padding: 75px 0;
+    position: relative;
+}
+
+.header-resume:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 250px 0 0 1920px;
+    border-color: transparent transparent transparent #ffffff;
+    line-height: 0px;
+    _border-color: #000000 #000000 #000000 #ffffff;
+    _filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
+}
+
+.header-resume .myphoto {
+    text-align: center;
+}
+
+.header-resume .resume-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+    position: relative;
+    z-index: 1;
+}
+
+.header-resume img {
+    width: 65%;
+}
+
+.header-resume p {
+    font-size: 20px;
+    color: #545454;
+}
+
+
+/*專業技能*/
+.page1-skills {
+    padding: 100px 0;
+    text-align: center;
+}
+.page1-skills h2{
+    background: url(../img/h2-skills.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    color: #fff;
+}
+.page1-skills .skills-content {
+    padding: 20px 0;
+}
+
+.page1-skills .skills-html {
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+    margin: 0 auto;
+    background: url(../img/html.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.page1-skills .skills-css {
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+    margin: 0 auto;
+    background: url(../img/css.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.page1-skills .skills-jq {
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+    margin: 0 auto;
+    background: url(../img/jquery.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.page1-skills .skills-bp {
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+    margin: 0 auto;
+    background: url(../img/bootsrap.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.page1-skills .skills-ai {
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+    margin: 0 auto;
+    background: url(../img/ai.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.page1-skills .skills-ps {
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+    margin: 0 auto;
+    background: url(../img/ps.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+
+/*經歷*/
+.page2-experience {
+    padding: 200px 0;
+    text-align: center;
+    background: #e4e4e4;
+    background-image: url(../img/exp-bgleft.png);
+    background-position: 0% 80%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.page2-experience h2{
+    color: #fff;
+    background: url(../img/h2-exp.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 15px 20px 30px 20px;
+}
+.page2-experience:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 250px 1920px 0 0;
+    border-color: #ffffff transparent transparent transparent;
+    line-height: 0px;
+    _border-color: #ffffff #000000 #000000 #000000;
+    _filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
+}
+
+.timeline-section {
+    position: relative;
+    padding: 20px 0;
+    margin-top: 60px;
+}
+
+.timeline-section:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 1px;
+    background-color: #4d4d4d;
+}
+.timeline-pointer {
+    position: relative;
+}
+.timeline-pointer:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #4d4d4d;
+    border: 1px solid #fff;
+    z-index: 1;
+}
+@media(max-width: 576px){
+    		.timeline-section:after,
+    		.timeline-pointer:after{
+    			display: none;
+    		}
+    	}
+.page2-experience .experience-content{
+	display: inline-block;
+    border: 1px solid #fff;
+	border-radius: 20px;
+	padding: 20px 30px;
+	text-align: left;
+    background: #4d4d4d;
+    color: #fff;
+}
+
+.page2-experience:before {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 250px 0 0 1920px;
+    border-color: transparent transparent transparent #ffffff;
+    line-height: 0px;
+    _border-color: #000000 #000000 #000000 #ffffff;
+    _filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
+}
+.page2-experience h4{
+    font-weight: bold;
+}
+/*作品*/
+.page3-works{
+    padding: 100px 0;
+    text-align: center;
+}
+.page3-works h2{
+    background: url(../img/h2-works.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    color: #fff;
+}
+
+.page3-works .btn{
+    background: #FFD140;
+    opacity: 0.8;
+    border: none;
+    color: #fff;
+}
+.page3-works .btn:hover{
+    opacity: 1;
+}
+/*關於*/
+.page4-about{
+    padding: 100px 0;
+    text-align: center;
+    position: relative;
+    background: url(../img/works-bgright.png);
+    background-repeat: no-repeat;
+    background-position: right top; 
+}
+.page4-about h2{
+    background: url(../img/h2-about.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    color: #fff;
+}
+.page4-about .about-img{
+    padding: 20px;
+    text-align: right;
+}
+.page4-about img{
+    width: 90%;
+}
+.page4-about .about-content{
+    text-align: left;
+    padding: 20px 0px;
+    color: #232323;
+}
+/*TOP按鈕*/
+.to_top{
+    display: none;
+    border: 2px solid #ffd140;
+    color: #ffd140;
+    width: 60px;
+    height: 60px;
+    position: fixed; 
+    bottom: 15px;
+    right: 15px;
+    text-align: center;
+    line-height: 55px;
+    border-radius: 60px;
+    font-size: 30px;
+}
+.to_top:hover{
+    color: #fff;
+    background: #ffd140;
+}
