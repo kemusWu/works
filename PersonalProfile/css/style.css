@@ -326,7 +326,7 @@ h2 {
 .page3-works .card-hover {
     position: absolute;
     width: 100%;
-    height: 54%;
+    height: 50%;
     background: rgba(255, 209, 64, 0.7);
     color: #fff;
     font-size: 20px;
@@ -349,7 +349,6 @@ h2 {
 .page3-works .btn:hover {
     opacity: 1;
 }
-
 
 
 
