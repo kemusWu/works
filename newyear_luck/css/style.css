@@ -19,6 +19,7 @@ a:hover{
     background: url(../img/header_bg.jpg);
     background-size: cover;
     background-position: 0% 30%;
+    background-attachment: fixed;
     height: 100vh;
     text-align: center;
     z-index: 1;
